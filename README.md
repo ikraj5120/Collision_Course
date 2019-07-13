@@ -7,7 +7,7 @@ Considering that each car is moving in a straight line towards the origin with i
 
 #### Note : Calculate collisions only at the origin. Ignore the other collisions. Assume that each car continued on its respective path even after the collision without change of direction or speed for an infinite distance.
 
-#### Constraints
+#### Constraints:
 1 <= C <= 10^5
 
 -10*9 <= x,y =< 10*9
@@ -19,10 +19,10 @@ Considering that each car is moving in a straight line towards the origin with i
 The first line contains an integer C, denoting the number of cars being considered that are passing by around the origin.
 Next C lines contains 3 space deliminted values, first two of them being for position coordinates (x,y) in 2D space and third one for speed(v).
 
-#### Output
+#### Output:
 A single integer Q denoting the number of collisions at origin possible for given set of cars.
 
-#### Test Case
+#### Test Case:
 5
 
 5 12 1
@@ -36,5 +36,5 @@ A single integer Q denoting the number of collisions at origin possible for give
 24 7 2
 
 
-#### Test Output
+#### Test Output:
 4

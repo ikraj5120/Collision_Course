@@ -9,8 +9,11 @@ Considering that each car is moving in a straight line towards the origin with i
 
 # Constraints
 1 <= C <= 10^5
+
 -10*9 <= x,y =< 10*9
+
 0 < v < 10*9
+
 
 # Input Format:
 The first line contains an integer C, denoting the number of cars being considered that are passing by around the origin.

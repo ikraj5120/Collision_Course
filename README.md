@@ -5,7 +5,7 @@ On a busy road, multiple cars are passing by. A simulation is run to see what ha
 
 Considering that each car is moving in a straight line towards the origin with individual uniform speed. Cars will continue to travel in that straight line even after crossing origin. Calculate the number of collisions that will happen in such a scenario.
 
-# Note : Calculate collisions only at the origin. Ignore the other collisions. Assume that each car continued on its respective path even after the collision without change of direction or speed for an infinite distance.
+#### Note : Calculate collisions only at the origin. Ignore the other collisions. Assume that each car continued on its respective path even after the collision without change of direction or speed for an infinite distance.
 
 # Constraints
 1 <= C <= 10^5

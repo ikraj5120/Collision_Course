@@ -24,11 +24,17 @@ A single integer Q denoting the number of collisions at origin possible for give
 
 # Test Case
 5
+
 5 12 1
+
 16 63 5
+
 -10 24 2
+
 7 24 2
+
 24 7 2
+
 
 # Test Output
 4
